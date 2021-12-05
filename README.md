@@ -1,1 +1,1 @@
-# privateSale_frontend
+# Private Sale DAPP's Front-end
